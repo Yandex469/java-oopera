@@ -62,7 +62,7 @@ public class MusicalShow extends Show {
                 "musicAuthorName='" + musicAuthorName + '\'' +
                 ", musicAuthorSurname='" + musicAuthorSurname + '\'';
                 if (librettoText != null) {
-                    result += ", librettoText='" + librettoText;
+                    result += ", librettoText='" + librettoText.length();
                 } else {
                     result += ", librettoText=null";
                 }
