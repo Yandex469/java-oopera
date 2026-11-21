@@ -1,3 +1,5 @@
+package person;
+
 import java.util.Objects;
 
 public class Person {

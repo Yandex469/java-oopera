@@ -1,3 +1,7 @@
+package show;
+
+import person.Actor;
+import person.Director;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Objects;

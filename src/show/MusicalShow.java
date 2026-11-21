@@ -1,3 +1,5 @@
+package show;
+
 import java.util.Objects;
 
 public class MusicalShow extends Show {
